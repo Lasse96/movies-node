@@ -1,0 +1,24 @@
+{
+  "name": "movies-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lasse96/movies-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lasse96/movies-node/issues"
+  },
+  "homepage": "https://github.com/Lasse96/movies-node#readme",
+  "devDependencies": {
+    "mongodb": "^5.0.1"
+  }
+}
